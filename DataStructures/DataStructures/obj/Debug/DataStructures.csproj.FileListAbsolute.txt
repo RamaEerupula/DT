@@ -1,0 +1,6 @@
+C:\Users\eerupurd\Documents\visual studio 2015\Projects\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\eerupurd\Documents\visual studio 2015\Projects\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\eerupurd\Documents\visual studio 2015\Projects\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\eerupurd\Documents\visual studio 2015\Projects\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\eerupurd\Documents\visual studio 2015\Projects\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\eerupurd\Documents\visual studio 2015\Projects\DataStructures\DataStructures\obj\Debug\DataStructures.pdb
